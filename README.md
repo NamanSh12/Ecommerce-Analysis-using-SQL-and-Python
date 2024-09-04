@@ -10,8 +10,6 @@ This project demonstrates an eCommerce data analysis workflow using SQL and Pyth
 - [Installation](#installation)
 - [Usage](#usage)
 - [Analysis and Visualization](#analysis-and-visualization)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
